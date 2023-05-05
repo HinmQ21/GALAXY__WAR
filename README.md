@@ -15,7 +15,7 @@
 ## 2. Cách mở project
 - Các bạn có thể down file zip về máy rồi giải nén, hoặc có thể tạo ra 1 folder mới rồi dùng lệnh git clone + link repo để clone về
 - Trong project đã bao những file cần thiết cho thư viện SDL2 (SDL2_image, SDL_mixer, SDL_ttf) nên rất tiện để các bạn link trực tiếp vào project
-- Project được code và build trên CodeBlock, sau khi clone về thì chỉ cần mở file CBP trên CodeBlock rồi build and run là chạy được file exe, nếu như các bạn sử dụng IDE khác thì hãy lên mạng và tìm cách build file dành cho IDE đó
+- Project được code và build trên VS Code, sau khi các bạn clone về thì mở file .exe để chơi (file exe được tạo ra bằng cách mở terminal và gõ lệnh mingw32-make) , nếu như các bạn sử dụng IDE khác thì hãy lên mạng và tìm cách build file dành cho IDE đó
 
 ## 3. Các kĩ năng code 
 - Quản lý các object bằng linked list
