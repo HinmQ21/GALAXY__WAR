@@ -3,7 +3,15 @@
 #and may not be redistributed without written permission.
 
 #OBJS specifies which files to compile as part of the project
-OBJS = design.cpp draw.cpp init.cpp input.cpp sound.cpp stage.cpp text.cpp util.cpp main.cpp
+OBJS =  code\main.cpp \
+		code\design.cpp \
+		code\draw.cpp \
+		code\init.cpp \
+		code\input.cpp \
+		code\sound.cpp \
+		code\stage.cpp \
+		code\text.cpp \
+		code\util.cpp \
 
 #CC specifies which compiler we're using
 CC = g++
